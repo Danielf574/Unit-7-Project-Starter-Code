@@ -1,0 +1,26 @@
+input {
+    color: darkgreen;
+    background-color: gold;
+}
+
+body {
+    background-image: url(https://cdn.dribbble.com/users/31149/screenshots/3157450/strangeportal.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    background-color: lightgreen;
+    font-weight: bold;
+    padding: 3px;
+}
